@@ -45,5 +45,5 @@ Here is a breakdown of the scripts included in this repository and the concepts 
 
 ## ⚙️ How to Run
 
-1. **Clone the repository:**
+1. **Necessary Libraries:**
   pip install tensorflow numpy pandas matplotlib scikit-learn gymnasium keras-tuner tqdm imageio
